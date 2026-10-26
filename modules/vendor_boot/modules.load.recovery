@@ -55,6 +55,7 @@ perf_helper.ko
 qcom-spmi-pmic.ko
 qcom_dma_heaps.ko
 spmi-pmic-arb.ko
+qpnp-power-on.ko
 fpc1020_platform_tee.ko
 goodix_fp.ko
 silead_fp.ko
@@ -185,7 +186,6 @@ usb_f_qdss.ko
 usb_f_gsi.ko
 ucsi_qti_glink.ko
 pm8941-pwrkey.ko
-qpnp-power-on.ko
 i2c-msm-geni.ko
 qcom-pon.ko
 reboot-mode.ko
